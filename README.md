@@ -41,3 +41,39 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
+
+
+
+			Feature Updates:
+
+Number and name of feature: Feature 1 - Refactor CSS
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:15am
+
+Finish time: 10:20am
+
+Actual time needed to complete: 65 minutes
+
+
+Number and name of feature: Feature 2 - Modify the Contents
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:20am
+
+Finish time: 
+
+Actual time needed to complete: 
+
+
+Number and name of feature: 
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 

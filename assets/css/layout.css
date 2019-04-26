@@ -1,6 +1,6 @@
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #666;
+  color: rgb(255, 255, 255);
   line-height: 1.5em;
 }
 
@@ -1575,7 +1575,7 @@ br.clear {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: rgb(170, 158, 158);
 		}
 
 			.image.avatar48 img {
@@ -1747,7 +1747,7 @@ ul.icons {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #31312f;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1765,7 +1765,7 @@ ul.icons {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #c6cccc;
 		}
 
 		input[type="button"]:active,
@@ -1785,7 +1785,7 @@ ul.icons {
 }
 
   .item header {
-    background: #fff;
+    background: rgb(107, 103, 103);
     margin: 0;
     padding: 1em 0 1em 0;
     font-size: 0.8em;
@@ -1833,7 +1833,7 @@ ul.icons {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: black ; 
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -1844,7 +1844,7 @@ ul.icons {
 		top: 0;
 		width: 375px;
 	}
-
+  
 		#header .top {
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
@@ -1870,7 +1870,7 @@ ul.icons {
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #8fa3af;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -1878,7 +1878,7 @@ ul.icons {
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: rgb(199, 196, 196);
 				}
 
 	#logo {
@@ -1899,7 +1899,7 @@ ul.icons {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.5em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
@@ -1956,7 +1956,7 @@ ul.icons {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #1d2bf5;
 					}
 
 
@@ -1965,7 +1965,7 @@ ul.icons {
 #footer {
   margin-left: 375px;
   text-align: center;
-  background-color: #dce3e2;
+  background-color: #645a5a;
   padding: 3em 0 4em 0;
   box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
   font-size: 0.8em;
@@ -2002,12 +2002,12 @@ ul.icons {
     padding: 4em 0;
     box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
     text-align: center;
-    background-image: url("images/overlay.png");
+    background: rgba(255, 255, 255, 0.5)
   }
 
     #main > section.dark {
-      color: #ddd;
-      color: rgba(255, 255, 255, 0.75);
+      color: rgba(248, 247, 247, 0.589);
+      color: rgba(247, 223, 223, 0.719);
     }
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2035,18 +2035,18 @@ ul.icons {
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-color: rgba(255, 255, 255, 0.2);
+      background-image: url("../../images/Safeco_Field_night.jpg");
     }
 
     #main > section.two {
-      background-color: #f5fafa;
+      background-color: #312c2c;
     }
 
     #main > section.three {
-      background-color: #ecf1f1;
+      background-color: #534c4c;
     }
 
     #main > section.four {
-      background-color: #e8edec;
+      background-color: #837676;
     }
