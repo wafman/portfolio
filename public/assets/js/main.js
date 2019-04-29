@@ -120,4 +120,11 @@
 					visibleClass: 'header-visible'
 				});
 
+				let video = document.getElementById('myVideo');
+				function playVideo() {
+					if(video.paused){
+						video.play();
+					}
+				}
+				playVideo();
 })(jQuery);
