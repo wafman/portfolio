@@ -68,6 +68,17 @@ Finish time: 1:20pm
 Actual time needed to complete: 160 minutes.
 
 
+Number and name of feature: User Acceptance Tasks -- Add functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:30am
+
+Finish time: 
+
+Actual time needed to complete: 
+
+
 Number and name of feature: 
 
 Estimate of time needed to complete: 
